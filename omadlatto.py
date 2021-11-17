@@ -1,4 +1,4 @@
-// men bu men Sarvarman
+// men bu men Sarvarman Xalmetov
 f=open("omadlatto.txt","w")
 a=1;
 b=2;
