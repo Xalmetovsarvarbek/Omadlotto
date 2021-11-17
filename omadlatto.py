@@ -1,3 +1,4 @@
+// men bu men
 f=open("omadlatto.txt","w")
 a=1;
 b=2;
